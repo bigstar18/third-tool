@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="GBK"?>
+<Context path="" docBase="${catalina.home}/dubboadmin.war" privileged="true"></Context>
+
